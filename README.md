@@ -5,7 +5,8 @@ Welcome to the Data Structures and Algorithms repository in JavaScript! This rep
 ## Table of Contents
 
 - [Chapter 1: Array Desturction]
-## Chapter 1: Introduction to DSA
+- [Chapter 2: Object Desturction]
+
 
 ### 1.1 Overview
 
