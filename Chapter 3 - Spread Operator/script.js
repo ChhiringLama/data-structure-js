@@ -39,6 +39,12 @@ hotel.bookRoom({
 // 3, spreading elements of a iterables (array,strings,maps,sets but NOT!! OBJECT !!) and Object
 
 //Array Spread
+
+const oldArr=[1,2,3,4,5,6];
+const [a,b,c,d,e,f]=[...oldArr];
+console.log(a,b,c,d,e,f);
+
+
 //This explains, joining and Copying;
 const newMenu=["Nepali","Chinese","American"]
 const cuisineUpdated=[...hotel.cuisine,...newMenu];
@@ -50,9 +56,11 @@ let userName="Chhiring";
 console.log(...userName );
 
 //Each element is passed individually into a function
+// Rest Parameter
 function printArray(...elements){
     console.log(elements);
 }
+//Spread Parameter
 printArray(...newMenu)
 
 
@@ -64,9 +72,6 @@ printArray(...newMenu)
 
 //With Spread we can simply pass the array with spread operator
 // hotel.orderDetail(...details);
-
-
-
 
 
 

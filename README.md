@@ -6,6 +6,8 @@ Welcome to the Data Structures and Modern Operators repository in JavaScript! Th
 
 - [Chapter 1: Array Desturction]
 - [Chapter 2: Object Desturction]
+- [Chapter 3: Spread Operator]
+- [Chapter 4: Rest Operator]
 
 
 ### 1.1 Overview
