@@ -1,6 +1,6 @@
-# Data Structures and Algorithms in JavaScript (DSA-js)
+# Data Structures and Modern Operators in JavaScript (DSA-js)
 
-Welcome to the Data Structures and Algorithms repository in JavaScript! This repository is designed to help you understand fundamental concepts and implementations of DSA using JavaScript.
+Welcome to the Data Structures and Modern Operators repository in JavaScript! This repository is designed to help you understand fundamental concepts and implementations of DSA using JavaScript.
 
 ## Table of Contents
 
