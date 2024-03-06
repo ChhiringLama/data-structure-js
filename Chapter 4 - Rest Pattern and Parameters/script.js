@@ -31,6 +31,8 @@ console.log(a,b,c,d,e,f);
 //in this case we use rest operator
 
 //When ... operator is on the left side of a statement, like:
+// note that spreading can be more than 1 as we want to spread more than 1 arrays
+// however rest is only 1 as we take all the rest elements into a single defined array
 const [g,h,i,j,k,l,...restOftheElements]=[...oldArr,...oldObj.objProperty,"These","Elements","Will","Not","Have","Individual","Varibales","Declared","For","Them"];
 console.log(g,h,i,j,k,l,restOftheElements);
 
