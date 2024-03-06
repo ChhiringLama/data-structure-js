@@ -8,6 +8,9 @@ Welcome to the Data Structures and Modern Operators repository in JavaScript! Th
 - [Chapter 2: Object Desturction]
 - [Chapter 3: Spread Operator]
 - [Chapter 4: Rest Operator]
+- [Chapter 5: Short Circuiting]
+- [Chapter 6: Logical Assignment]
+- [Chapter 7: Challenge 1]
 
 
 ### 1.1 Overview
