@@ -31,7 +31,7 @@ hotel.bookRoom({
 
 // Spread Operator 
 // A unary Operator that spreads all the elements of an iterables and object. 
-
+// !!Note using spreading returns/passes the elements in individual value not by making a new array like rest
 
 // Helpful for,
 // 1, Joining/merge two or more arrays,
@@ -97,3 +97,9 @@ let hotelBranch ={branchEstDate:"2022",...hotel,branchLocation:"Thapathali"};
 hotelBranch.hotelName="KTM Second View";
 console.log(hotelBranch);
 console.log(hotel);
+
+
+
+//== Helpfun Case 
+// const copyArry=[undefined,20,2,4,6,2,3];
+// for(let y of copyArry.entries()) console.log(...y);

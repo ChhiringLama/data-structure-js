@@ -94,7 +94,7 @@ console.log(draw);
 //Task 6
 //Rest
 function printGoals(...players) {
-  let counter = 1;
+  let counter = 0;
   for (let i = 0; i < players.length; i++)
    {
     counter=0;

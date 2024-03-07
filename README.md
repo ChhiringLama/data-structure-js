@@ -11,11 +11,13 @@ Welcome to the Data Structures and Modern Operators repository in JavaScript! Th
 - [Chapter 5: Short Circuiting]
 - [Chapter 6: Logical Assignment]
 - [Chapter 7: Challenge 1]
+- [Chapter 8: For Of Loop]
+- [Chapter 9: Inhanced Object Litreals]
 
 
 ### 1.1 Overview
 
-This chapter provides a brief introduction to Data Structures and Algorithms, laying the foundation for the subsequent chapters. Understanding these concepts is crucial for building efficient and optimized software solutions.
+This chapter provides a brief introduction to Data Structures and ES6 operators, laying the foundation for the subsequent chapters. Understanding these concepts is crucial for building efficient and optimized software solutions.
 
 ### 1.2 Getting Started
 
