@@ -24,10 +24,4 @@ Welcome to the Data Structures and Modern Operators repository in JavaScript! Th
 
 This chapter provides a brief introduction to Data Structures and ES6 operators, laying the foundation for the subsequent chapters. Understanding these concepts is crucial for building efficient and optimized software solutions.
 
-### 1.2 Getting Started
 
-To get started with the content in this chapter, make sure you have Node.js installed. You can clone the repository and explore the examples provided.
-
-```bash
-git clone https://github.com/your-username/DSA-js.git
-cd DSA-js
