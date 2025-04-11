@@ -1,4 +1,4 @@
-# Data Structures and Modern Operators in JavaScript (DSA-js)
+# Data Structures and Modern Operators in JavaScript
 
 Welcome to the Data Structures and Modern Operators repository in JavaScript! This repository is designed to help you understand fundamental concepts and implementations of DSA using JavaScript.
 
